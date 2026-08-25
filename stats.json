@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-08-25",
+  "totalSolved": 2,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-08-26",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 1,
     "medium": 0,
     "hard": 0,
-    "basic": 0
+    "basic": 1
   },
   "syncedProblems": {
-    "LeetCode_Smallest_Missing_Multiple_of_K": true
+    "LeetCode_Smallest_Missing_Multiple_of_K": true,
+    "GeeksForGeeks_Swap_Two_Numbers": true
   },
   "activityHistory": {
-    "2026-08-25": 1
+    "2026-08-25": 1,
+    "2026-08-26": 1
   },
   "todayProblems": [
-    "Smallest Missing Multiple of K"
+    "Swap Two Numbers"
   ]
 }
