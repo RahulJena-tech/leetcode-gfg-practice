@@ -1,11 +1,11 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 5,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-27",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 0,
     "hard": 0,
     "basic": 1
@@ -14,15 +14,17 @@
     "LeetCode_Smallest_Missing_Multiple_of_K": true,
     "GeeksForGeeks_Swap_Two_Numbers": true,
     "LeetCode_Classes_With_at_Least_5_Students": true,
-    "LeetCode_Find_Followers_Count": true
+    "LeetCode_Find_Followers_Count": true,
+    "LeetCode_Employees_Whose_Manager_Left_the_Company": true
   },
   "activityHistory": {
     "2026-08-25": 1,
     "2026-08-26": 1,
-    "2026-08-27": 2
+    "2026-08-27": 3
   },
   "todayProblems": [
     "Classes With at Least 5 Students",
-    "Find Followers Count"
+    "Find Followers Count",
+    "Employees Whose Manager Left the Company"
   ]
 }
