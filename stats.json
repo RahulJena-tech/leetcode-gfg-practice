@@ -1,11 +1,11 @@
 {
-  "totalSolved": 7,
-  "currentStreak": 3,
+  "totalSolved": 8,
+  "currentStreak": 1,
   "maxStreak": 3,
-  "lastSyncDate": "2026-08-27",
-  "todayCount": 5,
+  "lastSyncDate": "2026-08-30",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 6,
+    "easy": 7,
     "medium": 0,
     "hard": 0,
     "basic": 1
@@ -17,18 +17,16 @@
     "LeetCode_Find_Followers_Count": true,
     "LeetCode_Employees_Whose_Manager_Left_the_Company": true,
     "LeetCode_Find_Users_With_Valid_E-Mails": true,
-    "LeetCode_The_Number_of_Employees_Which_Report_to_Each_Employee": true
+    "LeetCode_The_Number_of_Employees_Which_Report_to_Each_Employee": true,
+    "LeetCode_Merge_Strings_Alternately": true
   },
   "activityHistory": {
     "2026-08-25": 1,
     "2026-08-26": 1,
-    "2026-08-27": 5
+    "2026-08-27": 5,
+    "2026-08-30": 1
   },
   "todayProblems": [
-    "Classes With at Least 5 Students",
-    "Find Followers Count",
-    "Employees Whose Manager Left the Company",
-    "Find Users With Valid E-Mails",
-    "The Number of Employees Which Report to Each Employee"
+    "Merge Strings Alternately"
   ]
 }

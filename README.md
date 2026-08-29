@@ -7,3 +7,4 @@
 | 5 | [Employees Whose Manager Left the Company](./LeetCode/Easy/Employees%20Whose%20Manager%20Left%20the%20Company) | [LeetCode](https://leetcode.com/problems/employees-whose-manager-left-the-company/) | Easy | 27 Aug 2026 | 04:54 am |
 | 6 | [Find Users With Valid E-Mails](./LeetCode/Easy/Find%20Users%20With%20Valid%20E-Mails) | [LeetCode](https://leetcode.com/problems/find-users-with-valid-e-mails/) | Easy | 27 Aug 2026 | 05:12 am |
 | 7 | [The Number of Employees Which Report to Each Employee](./LeetCode/Easy/The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee) | [LeetCode](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | Easy | 27 Aug 2026 | 11:39 pm |
+| 8 | [Merge Strings Alternately](./LeetCode/Easy/Merge%20Strings%20Alternately) | [LeetCode](https://leetcode.com/problems/merge-strings-alternately/) | Easy | 30 Aug 2026 | 01:18 am |
