@@ -55,9 +55,31 @@ void pattern6(int n){
     }
 }
 
+void pattern7(int n){
+    for(int i=0; i<n; i++){
+        for(int j=0; j<n-i; j++){
+            cout<<' ';
+        }
+        for(int j=0; j<2*i+1; j++){
+            cout<<'*';
+        }
+        cout<<endl;
+    }
+}
 
+void pattern8(int n){
+    for(int i=n; i>0; i--){
+        for(int j=0; j<n-i; j++){
+            cout<<" ";
+        }
+        for(int j=0; j<2*i-1; j++){
+            cout<<'*';
+        }
+        cout<<endl;
+    }
+}
 int main(){
-    int x = 5;
-    pattern6(x);
+    int x = 4;
+    pattern8(x);
     return 0;
 }
