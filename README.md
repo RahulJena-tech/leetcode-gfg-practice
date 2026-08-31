@@ -9,3 +9,4 @@
 | 7 | [The Number of Employees Which Report to Each Employee](./LeetCode/Easy/The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee) | [LeetCode](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | Easy | 27 Aug 2026 | 11:39 pm |
 | 8 | [Merge Strings Alternately](./LeetCode/Easy/Merge%20Strings%20Alternately) | [LeetCode](https://leetcode.com/problems/merge-strings-alternately/) | Easy | 30 Aug 2026 | 01:18 am |
 | 9 | [Removing Minimum and Maximum From Array](./LeetCode/Medium/Removing%20Minimum%20and%20Maximum%20From%20Array) | [LeetCode](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Medium | 31 Aug 2026 | 12:06 am |
+| 10 | [Valid Perfect Square](./LeetCode/Easy/Valid%20Perfect%20Square) | [LeetCode](https://leetcode.com/problems/valid-perfect-square/) | Easy | 31 Aug 2026 | 07:53 pm |
