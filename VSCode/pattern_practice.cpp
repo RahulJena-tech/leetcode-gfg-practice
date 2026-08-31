@@ -101,9 +101,26 @@ void pattern9(int n){
     }
 }
 
+void pattern10(int n){
+    int m = n+1;
+    if(n%2==0) m = n;
+    for(int i=0; i<2*n-1; i++){
+        if(i<m){
+            for(int j=0; j<=i; j++){
+                cout<<'*';
+            }
+        }
+        else{
+            for(int j=0; j<2*n-i-1; j++){
+                cout<<"*";
+            }
+        }
+        cout<<endl;
+    }
+}
 
 int main(){
     int x = 4;
-    pattern9(x);
+    pattern10(x);
     return 0;
 }
