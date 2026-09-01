@@ -10,3 +10,4 @@
 | 8 | [Merge Strings Alternately](./LeetCode/Easy/Merge%20Strings%20Alternately) | [LeetCode](https://leetcode.com/problems/merge-strings-alternately/) | Easy | 30 Aug 2026 | 01:18 am |
 | 9 | [Removing Minimum and Maximum From Array](./LeetCode/Medium/Removing%20Minimum%20and%20Maximum%20From%20Array) | [LeetCode](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Medium | 31 Aug 2026 | 12:06 am |
 | 10 | [Valid Perfect Square](./LeetCode/Easy/Valid%20Perfect%20Square) | [LeetCode](https://leetcode.com/problems/valid-perfect-square/) | Easy | 31 Aug 2026 | 07:53 pm |
+| 11 | [Triangle Judgement](./LeetCode/Easy/Triangle%20Judgement) | [LeetCode](https://leetcode.com/problems/triangle-judgement/) | Easy | 01 Sept 2026 | 06:41 pm |
