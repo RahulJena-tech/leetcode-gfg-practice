@@ -1,12 +1,12 @@
 {
-  "totalSolved": 12,
-  "currentStreak": 4,
-  "maxStreak": 4,
-  "lastSyncDate": "2026-09-02",
+  "totalSolved": 13,
+  "currentStreak": 5,
+  "maxStreak": 5,
+  "lastSyncDate": "2026-09-03",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 1
   },
@@ -22,7 +22,8 @@
     "LeetCode_Removing_Minimum_and_Maximum_From_Array": true,
     "LeetCode_Valid_Perfect_Square": true,
     "LeetCode_Triangle_Judgement": true,
-    "LeetCode_Construct_Uniform_Parity_Array_I": true
+    "LeetCode_Construct_Uniform_Parity_Array_I": true,
+    "LeetCode_Construct_Uniform_Parity_Array_II": true
   },
   "activityHistory": {
     "2026-08-25": 1,
@@ -31,9 +32,10 @@
     "2026-08-30": 1,
     "2026-08-31": 2,
     "2026-09-01": 1,
-    "2026-09-02": 1
+    "2026-09-02": 1,
+    "2026-09-03": 1
   },
   "todayProblems": [
-    "Construct Uniform Parity Array I"
+    "Construct Uniform Parity Array II"
   ]
 }
