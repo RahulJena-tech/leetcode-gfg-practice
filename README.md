@@ -13,3 +13,4 @@
 | 11 | [Triangle Judgement](./LeetCode/Easy/Triangle%20Judgement) | [LeetCode](https://leetcode.com/problems/triangle-judgement/) | Easy | 01 Sept 2026 | 06:41 pm |
 | 12 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 02 Sept 2026 | 09:47 pm |
 | 13 | [Construct Uniform Parity Array II](./LeetCode/Medium/Construct%20Uniform%20Parity%20Array%20II) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | 03 Sept 2026 | 09:46 pm |
+| 14 | [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | 04 Sept 2026 | 04:18 pm |
