@@ -15,3 +15,4 @@
 | 13 | [Construct Uniform Parity Array II](./LeetCode/Medium/Construct%20Uniform%20Parity%20Array%20II) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | 03 Sept 2026 | 09:46 pm |
 | 14 | [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | 04 Sept 2026 | 04:18 pm |
 | 15 | [Roman to Integer](./LeetCode/Easy/Roman%20to%20Integer) | [LeetCode](https://leetcode.com/problems/roman-to-integer/) | Easy | 05 Sept 2026 | 10:07 pm |
+| 16 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 06 Sept 2026 | 11:36 pm |
