@@ -161,8 +161,16 @@ void pattern13(int n){
     }
 }
 
+void pattern14(int n){
+    for(int i=0; i<n; i++){
+        for(char ch='A'; ch<='A'+i; ch++){
+            cout<<ch<<" ";
+        }
+        cout<<endl;
+    }
+}
 int main(){
     int x = 5;
-    pattern13(x);
+    pattern14(x);
     return 0;
 }
