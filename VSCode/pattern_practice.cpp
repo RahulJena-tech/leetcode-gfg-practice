@@ -133,8 +133,36 @@ void pattern11(int n){
     }
 }
 
+void pattern12(int n){
+    int space = 2*(n-1);
+    for(int i=1; i<=n; i++){
+        for(int j=1; j<=i; j++){
+            cout<<j;
+        }
+        for(int k=1; k<=space; k++){
+            cout<<" ";
+        }
+        for(int l=i; l>=1; l--){
+            cout<<l;
+        }
+        cout<<endl;
+        space-=2;
+    }
+}
+
+void pattern13(int n){
+    int j=1;
+    for(int i=0; i<n; i++){
+        for(int k=0; k<=i; k++){
+            cout<<j<<" ";
+            j++;
+        }
+        cout<<endl;
+    }
+}
+
 int main(){
-    int x = 4;
-    pattern11(x);
+    int x = 5;
+    pattern13(x);
     return 0;
 }
