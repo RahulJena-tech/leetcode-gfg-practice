@@ -17,3 +17,4 @@
 | 15 | [Roman to Integer](./LeetCode/Easy/Roman%20to%20Integer) | [LeetCode](https://leetcode.com/problems/roman-to-integer/) | Easy | 05 Sept 2026 | 10:07 pm |
 | 16 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 06 Sept 2026 | 11:36 pm |
 | 17 | [Count Commas in Range](./LeetCode/Easy/Count%20Commas%20in%20Range) | [LeetCode](https://leetcode.com/problems/count-commas-in-range/) | Easy | 08 Sept 2026 | 09:02 pm |
+| 18 | [Number of Ways to Split Array](./LeetCode/Medium/Number%20of%20Ways%20to%20Split%20Array) | [LeetCode](https://leetcode.com/problems/number-of-ways-to-split-array/) | Medium | 08 Sept 2026 | 09:08 pm |

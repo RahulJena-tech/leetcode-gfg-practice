@@ -1,12 +1,12 @@
 {
-  "totalSolved": 17,
+  "totalSolved": 18,
   "currentStreak": 1,
   "maxStreak": 8,
   "lastSyncDate": "2026-09-08",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 14,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "basic": 1
   },
@@ -27,7 +27,8 @@
     "LeetCode_Smallest_Stable_Index_I": true,
     "LeetCode_Roman_to_Integer": true,
     "LeetCode_Two_Sum": true,
-    "LeetCode_Count_Commas_in_Range": true
+    "LeetCode_Count_Commas_in_Range": true,
+    "LeetCode_Number_of_Ways_to_Split_Array": true
   },
   "activityHistory": {
     "2026-08-25": 1,
@@ -41,9 +42,10 @@
     "2026-09-04": 1,
     "2026-09-05": 1,
     "2026-09-06": 1,
-    "2026-09-08": 1
+    "2026-09-08": 2
   },
   "todayProblems": [
-    "Count Commas in Range"
+    "Count Commas in Range",
+    "Number of Ways to Split Array"
   ]
 }
