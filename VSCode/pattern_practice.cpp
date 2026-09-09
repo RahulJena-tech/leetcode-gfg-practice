@@ -270,8 +270,37 @@ void pattern20(int n){
     }
 }
 
+void pattern21(int n){
+    for(int i=0; i<n; i++){
+        for(int j=n-i; j>0; j--){
+            cout<<"* ";
+        }
+        for(int k=0; k<(2*i); k++){
+            cout<<"  ";
+        }
+        for(int l=n-i; l>0; l--){
+            cout<<"* ";
+        }
+        cout<<endl;
+    }
+}
+
+void pattern22(int n){
+    for(int i=0; i<n; i++){
+        for(int j=0; j<n; j++){
+            if(i==0 || i==(n-1) || j==0 || j==(n-1)){
+                cout<<"*  ";
+            }
+            else{
+                cout<<"   ";
+            }
+        }
+        cout<<endl;
+    }
+}
+
 int main(){
     int x = 5;
-    pattern20(x);
+    pattern22(x);
     return 0;
 }
