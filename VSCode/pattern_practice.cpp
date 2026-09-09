@@ -299,8 +299,32 @@ void pattern22(int n){
     }
 }
 
+void pattern23(int n){
+    for(int i=0; i<(2*n)-1; i++){
+        for(int j=0; j<(2*n)-1; j++){
+            int right = 2*n-2-j;
+            int down = 2*n-2-i;
+            int dist = min(min(i,j), min(right,down));
+            cout<<dist<<" ";
+        }
+        cout<<endl;
+    }
+}
+
+void pattern24(int n){
+    for(int i=0; i<(2*n)-1; i++){
+        for(int j=0; j<(2*n)-1; j++){
+            int right = 2*n-2-j;
+            int down = 2*n-2-i;
+            int dist = min(min(i,j), min(right,down));
+            cout<<(n-dist)<<" ";
+        }
+        cout<<endl;
+    }
+}
+
 int main(){
-    int x = 5;
-    pattern22(x);
+    int x = 4;
+    pattern24(x);
     return 0;
 }
