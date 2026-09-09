@@ -190,8 +190,34 @@ void pattern16(int n){
     }
 }
 
+void pattern17(int n){
+    for(int i=1; i<=n; i++){
+        int j = n-i;
+        for(int k=1; k<=j; k++){
+            cout<<" ";
+        }
+        for(char ch='A'; ch<'A'+i; ch++){
+            cout<<ch;
+        }
+        for(char ch='A'+(i-2); ch>='A'; ch--){
+            cout<<ch;
+        }
+        cout<<endl;
+    }
+}
+
+void pattern18(int n){
+    char ch='A'+(n-1);
+    for(int i=0; i<n; i++){
+        for(char c='A'+(n-i-1); c<=ch; c++){
+            cout<<c<<" ";
+        }
+        cout<<endl;
+    }
+}
+
 int main(){
     int x = 5;
-    pattern16(x);
+    pattern18(x);
     return 0;
 }
