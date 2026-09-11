@@ -20,3 +20,4 @@
 | 18 | [Number of Ways to Split Array](./LeetCode/Medium/Number%20of%20Ways%20to%20Split%20Array) | [LeetCode](https://leetcode.com/problems/number-of-ways-to-split-array/) | Medium | 08 Sept 2026 | 09:08 pm |
 | 19 | [Find the Index of the First Occurrence in a String](./LeetCode/Easy/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 09 Sept 2026 | 10:18 pm |
 | 20 | [Remove Element](./LeetCode/Easy/Remove%20Element) | [LeetCode](https://leetcode.com/problems/remove-element/) | Easy | 10 Sept 2026 | 08:00 pm |
+| 21 | [Second Highest Salary](./LeetCode/Medium/Second%20Highest%20Salary) | [LeetCode](https://leetcode.com/problems/second-highest-salary/) | Medium | 11 Sept 2026 | 11:45 pm |
