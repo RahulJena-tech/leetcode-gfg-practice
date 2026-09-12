@@ -1,11 +1,11 @@
 {
-  "totalSolved": 21,
-  "currentStreak": 4,
+  "totalSolved": 22,
+  "currentStreak": 5,
   "maxStreak": 8,
-  "lastSyncDate": "2026-09-11",
+  "lastSyncDate": "2026-09-12",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 16,
+    "easy": 17,
     "medium": 4,
     "hard": 0,
     "basic": 1
@@ -31,7 +31,8 @@
     "LeetCode_Number_of_Ways_to_Split_Array": true,
     "LeetCode_Find_the_Index_of_the_First_Occurrence_in_a_String": true,
     "LeetCode_Remove_Element": true,
-    "LeetCode_Second_Highest_Salary": true
+    "LeetCode_Second_Highest_Salary": true,
+    "LeetCode_Group_Sold_Products_By_The_Date": true
   },
   "activityHistory": {
     "2026-08-25": 1,
@@ -48,9 +49,10 @@
     "2026-09-08": 2,
     "2026-09-09": 1,
     "2026-09-10": 1,
-    "2026-09-11": 1
+    "2026-09-11": 1,
+    "2026-09-12": 1
   },
   "todayProblems": [
-    "Second Highest Salary"
+    "Group Sold Products By The Date"
   ]
 }
