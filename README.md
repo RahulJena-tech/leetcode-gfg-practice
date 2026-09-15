@@ -24,3 +24,4 @@
 | 22 | [Group Sold Products By The Date](./LeetCode/Easy/Group%20Sold%20Products%20By%20The%20Date) | [LeetCode](https://leetcode.com/problems/group-sold-products-by-the-date/) | Easy | 12 Sept 2026 | 09:58 pm |
 | 23 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 13 Sept 2026 | 11:15 pm |
 | 24 | [Rectangle Overlap](./LeetCode/Easy/Rectangle%20Overlap) | [LeetCode](https://leetcode.com/problems/rectangle-overlap/) | Easy | 14 Sept 2026 | 11:11 pm |
+| 25 | [Plus One](./LeetCode/Easy/Plus%20One) | [LeetCode](https://leetcode.com/problems/plus-one/) | Easy | 15 Sept 2026 | 09:25 pm |
