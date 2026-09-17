@@ -26,3 +26,4 @@
 | 24 | [Rectangle Overlap](./LeetCode/Easy/Rectangle%20Overlap) | [LeetCode](https://leetcode.com/problems/rectangle-overlap/) | Easy | 14 Sept 2026 | 11:11 pm |
 | 25 | [Plus One](./LeetCode/Easy/Plus%20One) | [LeetCode](https://leetcode.com/problems/plus-one/) | Easy | 15 Sept 2026 | 09:25 pm |
 | 26 | [Contains Duplicate](./LeetCode/Easy/Contains%20Duplicate) | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | Easy | 16 Sept 2026 | 11:16 pm |
+| 27 | [Length of Last Word](./LeetCode/Easy/Length%20of%20Last%20Word) | [LeetCode](https://leetcode.com/problems/length-of-last-word/) | Easy | 17 Sept 2026 | 11:17 pm |
