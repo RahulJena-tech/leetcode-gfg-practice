@@ -31,3 +31,4 @@
 | 29 | [Single Number](./LeetCode/Easy/Single%20Number) | [LeetCode](https://leetcode.com/problems/single-number/) | Easy | 19 Sept 2026 | 10:09 pm |
 | 30 | [Reverse Degree of a String](./LeetCode/Easy/Reverse%20Degree%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy | 20 Sept 2026 | 11:58 pm |
 | 31 | [Number of Intersecting Interval Pairs I](./LeetCode/Easy/Number%20of%20Intersecting%20Interval%20Pairs%20I) | [LeetCode](https://leetcode.com/problems/number-of-intersecting-interval-pairs-i/) | Easy | 21 Sept 2026 | 10:54 pm |
+| 32 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 22 Sept 2026 | 10:55 pm |
