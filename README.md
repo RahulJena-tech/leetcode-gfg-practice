@@ -32,3 +32,4 @@
 | 30 | [Reverse Degree of a String](./LeetCode/Easy/Reverse%20Degree%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy | 20 Sept 2026 | 11:58 pm |
 | 31 | [Number of Intersecting Interval Pairs I](./LeetCode/Easy/Number%20of%20Intersecting%20Interval%20Pairs%20I) | [LeetCode](https://leetcode.com/problems/number-of-intersecting-interval-pairs-i/) | Easy | 21 Sept 2026 | 10:54 pm |
 | 32 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 22 Sept 2026 | 10:55 pm |
+| 33 | [Minimum Operations to Reduce X to Zero](./LeetCode/Medium/Minimum%20Operations%20to%20Reduce%20X%20to%20Zero) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | 23 Sept 2026 | 11:21 pm |
