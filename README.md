@@ -33,3 +33,4 @@
 | 31 | [Number of Intersecting Interval Pairs I](./LeetCode/Easy/Number%20of%20Intersecting%20Interval%20Pairs%20I) | [LeetCode](https://leetcode.com/problems/number-of-intersecting-interval-pairs-i/) | Easy | 21 Sept 2026 | 10:54 pm |
 | 32 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 22 Sept 2026 | 10:55 pm |
 | 33 | [Minimum Operations to Reduce X to Zero](./LeetCode/Medium/Minimum%20Operations%20to%20Reduce%20X%20to%20Zero) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | 23 Sept 2026 | 11:21 pm |
+| 34 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index) | [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | 25 Sept 2026 | 12:14 am |
