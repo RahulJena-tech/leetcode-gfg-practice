@@ -1,12 +1,12 @@
 {
-  "totalSolved": 35,
-  "currentStreak": 1,
+  "totalSolved": 36,
+  "currentStreak": 2,
   "maxStreak": 16,
-  "lastSyncDate": "2026-09-28",
+  "lastSyncDate": "2026-09-29",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 29,
-    "medium": 5,
+    "medium": 6,
     "hard": 0,
     "basic": 1
   },
@@ -45,7 +45,8 @@
     "LeetCode_Move_Zeroes": true,
     "LeetCode_Minimum_Operations_to_Reduce_X_to_Zero": true,
     "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true,
-    "LeetCode_Perfect_Number": true
+    "LeetCode_Perfect_Number": true,
+    "LeetCode_Count_Primes": true
   },
   "activityHistory": {
     "2026-08-25": 1,
@@ -76,9 +77,10 @@
     "2026-09-22": 1,
     "2026-09-23": 1,
     "2026-09-25": 1,
-    "2026-09-28": 1
+    "2026-09-28": 1,
+    "2026-09-29": 1
   },
   "todayProblems": [
-    "Perfect Number"
+    "Count Primes"
   ]
 }
