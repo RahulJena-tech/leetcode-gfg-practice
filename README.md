@@ -37,3 +37,4 @@
 | 35 | [Perfect Number](./LeetCode/Easy/Perfect%20Number) | [LeetCode](https://leetcode.com/problems/perfect-number/) | Easy | 28 Sept 2026 | 12:56 am |
 | 36 | [Count Primes](./LeetCode/Medium/Count%20Primes) | [LeetCode](https://leetcode.com/problems/count-primes/) | Medium | 29 Sept 2026 | 08:26 pm |
 | 37 | [Reverse String](./LeetCode/Easy/Reverse%20String) | [LeetCode](https://leetcode.com/problems/reverse-string/) | Easy | 03 Oct 2026 | 03:19 am |
+| 38 | [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | Easy | 03 Oct 2026 | 03:26 am |

@@ -1,11 +1,11 @@
 {
-  "totalSolved": 37,
+  "totalSolved": 38,
   "currentStreak": 1,
   "maxStreak": 16,
   "lastSyncDate": "2026-10-03",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 30,
+    "easy": 31,
     "medium": 6,
     "hard": 0,
     "basic": 1
@@ -47,7 +47,8 @@
     "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true,
     "LeetCode_Perfect_Number": true,
     "LeetCode_Count_Primes": true,
-    "LeetCode_Reverse_String": true
+    "LeetCode_Reverse_String": true,
+    "LeetCode_Valid_Palindrome": true
   },
   "activityHistory": {
     "2026-08-25": 1,
@@ -80,9 +81,10 @@
     "2026-09-25": 1,
     "2026-09-28": 1,
     "2026-09-29": 1,
-    "2026-10-03": 1
+    "2026-10-03": 2
   },
   "todayProblems": [
-    "Reverse String"
+    "Reverse String",
+    "Valid Palindrome"
   ]
 }
