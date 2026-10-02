@@ -40,3 +40,4 @@
 | 38 | [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | Easy | 03 Oct 2026 | 03:26 am |
 | 39 | [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) | [LeetCode](https://leetcode.com/problems/reverse-integer/) | Medium | 03 Oct 2026 | 03:26 am |
 | 40 | [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) | [LeetCode](https://leetcode.com/problems/palindrome-number/) | Easy | 03 Oct 2026 | 03:27 am |
+| 41 | [Largest Odd Number in String](./LeetCode/Easy/Largest%20Odd%20Number%20in%20String) | [LeetCode](https://leetcode.com/problems/largest-odd-number-in-string/) | Easy | 03 Oct 2026 | 04:13 am |
