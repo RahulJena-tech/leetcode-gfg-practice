@@ -38,3 +38,4 @@
 | 36 | [Count Primes](./LeetCode/Medium/Count%20Primes) | [LeetCode](https://leetcode.com/problems/count-primes/) | Medium | 29 Sept 2026 | 08:26 pm |
 | 37 | [Reverse String](./LeetCode/Easy/Reverse%20String) | [LeetCode](https://leetcode.com/problems/reverse-string/) | Easy | 03 Oct 2026 | 03:19 am |
 | 38 | [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | Easy | 03 Oct 2026 | 03:26 am |
+| 39 | [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) | [LeetCode](https://leetcode.com/problems/reverse-integer/) | Medium | 03 Oct 2026 | 03:26 am |
